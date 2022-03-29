@@ -1,4 +1,4 @@
-# Prácticas HTML
+# Práctica HTML
 
 Para la práctica de esta semana tendrán que maquetar en HTML el siguiente caso y generar su repositorio con el ejercicio.
 <br>
